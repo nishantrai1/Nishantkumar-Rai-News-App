@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Nishantkumar-Rai-Test
+
+  Created by Nishant Rai on 02/02/25.
+  
+*/
+
+"top_headlines_title" = "Top Headlines";
+"top_headlines_details_title" = "Headline details";
+"loading_headlines_title" = "Loading top headlines....";
+"loading_headlines_subTitle" = "Please wait while we fetch the top headlines for you.";
